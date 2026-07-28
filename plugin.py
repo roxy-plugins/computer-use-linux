@@ -4,6 +4,7 @@ from agent.plugins import McpServerSpec, Plugin
 
 
 class ComputerUseLinuxPlugin(Plugin):
+    api_version = 2
     name = "computer-use-linux"
     version = "1.1.1"
     desc = "Linux desktop control MCP and operating skill"
