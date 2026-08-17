@@ -1,6 +1,6 @@
 ---
 name: computer-use-linux
-description: Use when Akashic needs to inspect or control the local Linux desktop through computer-use-linux, including browser tasks, accessibility trees, windows, screenshots, clicks, scrolling, text or key input, Wayland or Hyprland coordinate handling, and diagnosis of failed desktop actions.
+description: Use when Roxy needs to inspect or control the local Linux desktop through computer-use-linux, including browser tasks, accessibility trees, windows, screenshots, clicks, scrolling, text or key input, Wayland or Hyprland coordinate handling, and diagnosis of failed desktop actions.
 ---
 
 # Computer Use Linux
