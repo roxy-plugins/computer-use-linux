@@ -8,7 +8,7 @@ class ComputerUseLinuxPlugin(Plugin):
     name = "computer-use-linux"
     version = "1.1.1"
     desc = "Linux desktop control MCP and operating skill"
-    author = "akashic-plugins"
+    author = "roxy-plugins"
 
     @classmethod
     def skill_roots(cls) -> tuple[str, ...]:
